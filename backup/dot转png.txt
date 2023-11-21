@@ -1,0 +1,1 @@
+dot -Tpng D:\liangkaimeng\银行客户认购产品预测\decision_tree_1690655174.dot -o D:\liangkaimeng\银 行客户认购产品预测\tree.png -Gdpi=500
